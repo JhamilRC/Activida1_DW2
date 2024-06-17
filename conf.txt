@@ -1,0 +1,16 @@
+ACTIVIDAD 01
+---mkdir Actividad1
+---npm init -y (crea package.json)
+---agregamos las dependencias o librerías
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.3.3"
+  }
+---ejecutamos (npm install)
+//colors = colores
+//inquierer = menus
+//axios = ayuda a realizar consultas (GET, SET, POST, PUT)
+//dotenv = manejar lo tokens
+//postman = ayuda a realizar consultas (GET, SET, POST, PUT)
